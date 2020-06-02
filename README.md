@@ -1,4 +1,4 @@
-# Public Status Check
+# Tidle Status Check
 ## Introduction
 Texte de la catégorie <http://opensource.tidle.fr/>.
 
